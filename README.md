@@ -5,8 +5,7 @@
   ### 📲 Senior iOS Developer
   
   <p>
-    Especialista no ecossistema Apple (Swift), mas também entusiasta do desenvolvimento mobile cross-platform e nativo Android.
-    Apaixonado por compartilhar conhecimento através de artigos e código limpo.
+    Especialista no ecossistema Apple (Swift), mas também entusiasta do desenvolvimento mobile cross-platform e Android.
   </p>
   
   ---
@@ -27,7 +26,7 @@
   ### ✍️ Criação de Conteúdo & Portfolio
 
   <p>
-    Gosto de escrever sobre desenvolvimento mobile, arquitetura e carreira.
+    Falo sobre desenvolvimento mobile, arquitetura e carreira.
     <br/>
     Você pode conferir meus artigos e projetos nos links abaixo:
   </p>
